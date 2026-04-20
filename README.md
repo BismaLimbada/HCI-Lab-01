@@ -48,12 +48,6 @@ Miller's Law ($7 \pm 2$) is often misinterpreted as "never have more than 7 butt
 ## 3. Technical Demo (Miller's Law)
 JavaScript simulation to compare grouped vs. ungrouped data processing. 
 
-**Code Snippet:**
-\`\`\`javascript
-let items = ['5','2','9','1','7','4','6','8'];
-let chunked = [['5','2','9'], ['1','7','4'], ['6','8']];
-\`\`\`
-
 **Console Output Results:**
 * **Ungrouped:** 5 2 9 1 7 4 6 8 (8 bits of information)
 * **Chunked:** 529 174 68 (3 bits of information)
