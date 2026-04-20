@@ -43,3 +43,19 @@ Miller's Law ($7 \pm 2$) is often misinterpreted as "never have more than 7 butt
 > **![Millers Law](./millerslaw.jpg)**
 
 
+---
+
+## 3. Technical Demo (Miller's Law)
+I executed a JavaScript simulation to compare grouped vs. ungrouped data processing. 
+
+**Code Snippet:**
+\`\`\`javascript
+let items = ['5','2','9','1','7','4','6','8'];
+let chunked = [['5','2','9'], ['1','7','4'], ['6','8']];
+\`\`\`
+
+**Console Output Results:**
+* **Ungrouped:** 5 2 9 1 7 4 6 8 (8 bits of information)
+* **Chunked:** 529 174 68 (3 bits of information)
+
+**Conclusion:** The experiment confirms that chunking the data into 3 units makes it significantly easier to recall than 8 individual digits, directly supporting Miller’s Law ($7 \pm 2$).
