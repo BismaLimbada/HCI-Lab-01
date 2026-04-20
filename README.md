@@ -31,7 +31,7 @@ YouTube uses a multi-layered chunking strategy:
 2. **Main Feed:** Groups videos into a grid. 
 3. **Video Cards:** Each individual "card" is a chunk containing a thumbnail, title, and channel name as a single semantic unit.
 
-> **[Insert your annotated YouTube screenshot here]**
+> **![YouTube Analysis](./chunking.png)**
 
 ---
 
@@ -41,6 +41,7 @@ Miller's Law ($7 \pm 2$) is often misinterpreted as "never have more than 7 butt
 ### Examples of Compliance:
 * **Google Search:** The landing page presents one primary chunk (the search bar), focusing 100% of cognitive resources.
 * **Instagram Stories:** The top bar typically shows 5–7 profile circles at a time to stay within the limits of short-term memory.
-
+  
+> **![Millers Law](./millers law.png)**
 
 
