@@ -22,9 +22,7 @@ Chunking isn't just about "groups"; it’s about reducing **Cognitive Load**—t
     * **Standard:** 03001234567
     * **Chunked:** 0300-123-4567 (Much easier to recall).
 
----
-
-## 2. Case Study: YouTube (Home Feed & Navigation)
+## YouTube (Home Feed & Navigation)
 ### Observation
 YouTube uses a multi-layered chunking strategy:
 1. **Sidebar:** Groups functional links (Home, Shorts, Subscriptions).
@@ -35,7 +33,7 @@ YouTube uses a multi-layered chunking strategy:
 
 ---
 
-## 3. Respecting Miller's Law
+## 2. Respecting Miller's Law
 Miller's Law ($7 \pm 2$) is often misinterpreted as "never have more than 7 buttons." In modern UX, it means **"never have more than 7 categories or groups at once."**
 
 ### Examples of Compliance:
