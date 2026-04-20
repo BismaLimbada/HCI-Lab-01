@@ -46,7 +46,7 @@ Miller's Law ($7 \pm 2$) is often misinterpreted as "never have more than 7 butt
 ---
 
 ## 3. Technical Demo (Miller's Law)
-I executed a JavaScript simulation to compare grouped vs. ungrouped data processing. 
+JavaScript simulation to compare grouped vs. ungrouped data processing. 
 
 **Code Snippet:**
 \`\`\`javascript
