@@ -36,7 +36,7 @@ YouTube uses a multi-layered chunking strategy:
 ## 2. Respecting Miller's Law
 Miller's Law ($7 \pm 2$) is often misinterpreted as "never have more than 7 buttons." In modern UX, it means **"never have more than 7 categories or groups at once."**
 
-### Examples of Compliance:
+### Examples:
 * **Google Search:** The landing page presents one primary chunk (the search bar), focusing 100% of cognitive resources.
 * **Instagram Stories:** The top bar typically shows 5–7 profile circles at a time to stay within the limits of short-term memory.
   
