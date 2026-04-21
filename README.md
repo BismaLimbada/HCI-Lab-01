@@ -1,7 +1,4 @@
 # Lab 01: Chunking and Cognitive Load
-**Course:** HCI-CG CS-555  
-**Instructor:** Dr. Humera Tariq  
-
 ---
 
 ### Student Information
